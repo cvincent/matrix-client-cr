@@ -1,8 +1,8 @@
-name: matrix_org-client
+name: matrix-client-cr
 version: 0.1.0
 
 authors:
-  - your-name-here <your-email-here>
+  - Chris Vincent <chris.vincent@hey.com>
 
 crystal: 0.35.1
 
